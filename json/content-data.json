@@ -1,0 +1,62 @@
+[
+  {
+    "placeName": "Magway",
+    "placeDescription": "It was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of Letraset",
+    "rank": 5,
+    "temp": "30 C",
+    "kilo": "90 km",
+    "image": "imageOne.jpg",
+    "agency": "Min Thu Kyaw",
+    "price": "50000"
+  },
+  {
+    "placeName": "Yangon",
+    "placeDescription": "It was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of Letraset",
+    "rank": 5,
+    "temp": "30 C",
+    "kilo": "90 km",
+    "image": "imageTwo.jpg",
+    "agency": "Min Thu Kyaw",
+    "price": "50000"
+  },
+  {
+    "placeName": "Inly Lake",
+    "placeDescription": "It was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of Letraset",
+    "rank": 5,
+    "temp": "30 C",
+    "kilo": "90 km",
+    "image": "imageFour.jpeg",
+    "agency": "Min Thu Kyaw",
+    "price": "50000"
+  },
+  {
+    "placeName": "Bagan",
+    "placeDescription": "It was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of Letraset",
+    "rank": 5,
+    "temp": "30 C",
+    "kilo": "90 km",
+    "image": "imageThree.jpeg",
+    "agency": "Min Thu Kyaw",
+    "price": "50000"
+  },
+  {
+    "placeName": "Khakaborazi",
+    "placeDescription": "It was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of Letraset",
+    "rank": 4,
+    "temp": "30 C",
+    "kilo": "90 km",
+    "image": "imageFive.jpeg",
+    "agency": "Min Thu Kyaw",
+    "price": "50000"
+  },
+  {
+    "placeName": "Myeik",
+    "placeDescription": "It was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of LetrasetIt was popularised in the 1960s with the release of Letraset",
+    "rank": 5,
+    "temp": "30 C",
+    "kilo": "90 km",
+    "image": "imageSix.jpeg",
+    "agency": "Min Thu Kyaw",
+    "price": "50000"
+  }
+]
